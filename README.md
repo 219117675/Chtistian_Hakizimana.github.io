@@ -1,11 +1,13 @@
-<div style="display:flex; align-items:center; gap:20px;">
+<div style="display:flex; align-items:center; gap:20px; 
+background:#f5f5f5; padding:20px; border-radius:15px;">
 
-  <img src="profile.png" width="110" style="border-radius:50%;">
+  <img src="profile.png" width="120" 
+  style="border-radius:50%; border:3px solid #333;">
 
-  <div style="border-left:3px solid #333; padding-left:15px;">
+  <div>
     <h1 style="margin:0;">Christian Hakizimana</h1>
     <p style="margin:5px 0;"><strong>Software Developer | ICT Student</strong></p>
-    <p style="margin:5px 0;">📍 Cape Town</p>
+    <p style="margin:5px 0;">📍 Cape Town, South Africa</p>
     <p style="margin:5px 0;">📧 219117675@mycput.ac.za</p>
     <p style="margin:5px 0;">
       🔗 <a href="https://github.com/219117675">GitHub</a>
