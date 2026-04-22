@@ -65,7 +65,7 @@ National Senior Certificate
 ### 🎟️ Event Management Website
 - Built using HTML, CSS, and JavaScript  
 - Includes event creation and user interaction features  
-- Designed responsive and user-friendly interface  
+- Designed a responsive and user-friendly interface  
 
 ---
 
@@ -90,7 +90,7 @@ National Senior Certificate
 
 ## 🎥 Mock Interview Video  
 
-<div style="max-width: 700px; margin: auto;">
+<div style="max-width: 500px; margin: auto;">
   <video controls style="width:100%; border-radius:10px;">
     <source src="interview.mp4" type="video/mp4">
   </video>
@@ -114,7 +114,7 @@ National Senior Certificate
 
 ### 📄 Reflection on the Use of Markdown (.md)
 
-This project was my first time working with Markdown, and at the beginning I found it quite challenging because I was more familiar with HTML and CSS. I was used to having more control over design, so working with a simpler format felt limiting at first.  
+This project was my first time working with Markdown, and at the beginning, I found it quite challenging because I was more familiar with HTML and CSS. I was used to having more control over design, so working with a simpler format felt limiting at first.  
 
 However, as I continued, I started to understand the theory behind Markdown, which focuses on simplicity, readability, and clear structure. This helped me shift my thinking from focusing on design to focusing on how information is organised and presented.  
 
