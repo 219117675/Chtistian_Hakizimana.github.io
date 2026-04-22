@@ -93,8 +93,8 @@ National Senior Certificate
 
 ## 🎥 Mock Interview Video  
 
-<div style="max-width:600px; margin:auto;">
-  <video controls style="width:100%; height:auto; border-radius:12px;">
+<div style="max-width:500px; margin:auto;">
+  <video controls style="width:100%; height:auto; border-radius:14px;">
     <source src="interview.mp4" type="video/mp4">
   </video>
 </div>
