@@ -23,7 +23,7 @@
 
 ## 🎯 Career Objective  
 Motivated and detail-oriented 3rd-year ICT Diploma student at CPUT specializing in Software Development.  
-Seeking Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.  
+Seeking a Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.  
 
 ---
 
@@ -100,7 +100,7 @@ National Senior Certificate
 
 ## 📂 GitHub Portfolio  
 
-👉 https://github.com/219117675  
+👉  [https://github.com/219117675] ()
 
 ---
 
