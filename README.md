@@ -117,26 +117,28 @@ National Senior Certificate
 
 ### 📄 Reflection on the Use of Markdown (.md)
 
-> This project was my first time working with Markdown, and at first I found it quite challenging because I was more familiar > with HTML and CSS. I was used to having more control over design, so working with a simpler format felt limiting at first.  
+> This project was my first time working with Markdown, and at first, I found it quite challenging because I was more familiar with HTML and CSS. I was 
+> used to having more control over design, so working with a simpler format felt limiting at first.  
 >
 > However, as I continued, I started to understand the theory behind Markdown, which focuses on simplicity, readability, and 
 > clear structure. This helped me shift my thinking from focusing on design to focusing on how information is organised and 
 > presented.  
 >
-> I also applied my previous experience with HTML by integrating it into Markdown to improve layout where needed. This showed > me how I can adapt my existing knowledge to new tools.  
+> I also applied my previous experience with HTML by integrating it into Markdown to improve layout where needed. This showed me how I can adapt my 
+> existing knowledge to new tools.  
 >
-> Overall, this experience improved my self-awareness as a developer and helped me realise that learning new technologies >
+> Overall, this experience improved my self-awareness as a developer and helped me realise that learning new technologies 
 > requires patience, adaptability, and a willingness to grow.
 
 ---
 
 ### 🎥 Reflection on the Mock Interview Video
 
->The mock interview was a new experience for me and pushed me out of my comfort zone. Speaking on camera made me more aware of >how I present myself, including my confidence, tone, and clarity.  
+>The mock interview was a new experience for me and pushed me out of my comfort zone. Speaking on camera made me more aware of how I present myself, including my confidence, tone, and clarity.  
 >
->Preparing for the interview required me to reflect on my own abilities, strengths, and weaknesses, which helped develop my >self-identity as a future software developer. Using the STAR method gave structure to my answers and helped me communicate >more effectively.  
+>Preparing for the interview required me to reflect on my own abilities, strengths, and weaknesses, which helped develop my self-identity as a future software developer. Using the STAR method gave structure to my answers and helped me communicate more effectively.  
 >
->This experience also showed me the importance of preparation and practice. It helped me take more responsibility for how I >present myself, which is an important step in developing personal agency.  
+>This experience also showed me the importance of preparation and practice. It helped me take more responsibility for how I present myself, which is an important step in developing personal agency.  
 >
 >Overall, I gained confidence and a better understanding of how to approach real interview situations.
 
@@ -144,20 +146,20 @@ National Senior Certificate
 
 ### 🌐 Reflection on Creating a GitHub Page
 
->Creating a GitHub Page was a practical experience that connected directly to real-world industry practices. Before this, I >mainly used GitHub for storing code, but this project showed me how it can be used to present myself professionally.  
+>Creating a GitHub Page was a practical experience that connected directly to real-world industry practices. Before this, I mainly used GitHub for storing code, but this project showed me how it can be used to present myself professionally.  
 >
->I learned how to organise my work, manage files, and deploy a live page. Seeing my portfolio online helped me understand the >importance of having a professional digital presence.  
+>I learned how to organise my work, manage files, and deploy a live page. Seeing my portfolio online helped me understand the importance of having a professional digital presence.  
 >
->This also improved my ability to learn independently, as I had to explore new concepts and solve problems along the way. It >showed me that learning in ICT is continuous and requires initiative.
+>This also improved my ability to learn independently, as I had to explore new concepts and solve problems along the way. It showed me that learning in ICT is continuous and requires initiative.
 
 ---
 
 ### 🚀 Overall Reflection and Personal Growth
 
->Overall, this project helped me grow both technically and personally. It required me to apply theory into practice, use my >previous knowledge, and adapt to new tools and challenges.  
+>Overall, this project helped me grow both technically and personally. It required me to apply theory into practice, use my previous knowledge, and adapt to new tools and challenges.  
 >
->I developed greater self-awareness in terms of my strengths and areas for improvement, especially in communication and >technical presentation. I also became more confident in my ability to learn new technologies and apply them effectively.  
+>I developed greater self-awareness in terms of my strengths and areas for improvement, especially in communication and technical presentation. I also became more confident in my ability to learn new technologies and apply them effectively.  
 >
->This experience has helped me understand what it means to be a developing professional in the ICT field. It has strengthened >my ability to learn, adapt, and present myself in a more professional and confident way.  
+>This experience has helped me understand what it means to be a developing professional in the ICT field. It has strengthened my ability to learn, adapt, and present myself in a more professional and confident way.  
 >
->In general, this project has prepared me better for the ICT industry, especially in terms of interviews, presenting my work, >and building a strong professional profile online.
+>In general, this project has prepared me better for the ICT industry, especially in terms of interviews, presenting my work, and building a strong professional profile online.
