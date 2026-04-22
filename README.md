@@ -126,13 +126,13 @@ National Senior Certificate
 
 ### 🎥 Reflection on the Mock Interview Video
 
-The mock interview was a new experience for me and pushed me out of my comfort zone. Speaking on camera made me more aware of how I present myself, including my confidence, tone, and clarity.  
-
-Preparing for the interview required me to reflect on my own abilities, strengths, and weaknesses, which helped develop my self-identity as a future software developer. Using the STAR method gave structure to my answers and helped me communicate more effectively.  
-
-This experience also showed me the importance of preparation and practice. It helped me take more responsibility for how I present myself, which is an important step in developing personal agency.  
-
-Overall, I gained confidence and a better understanding of how to approach real interview situations.
+>The mock interview was a new experience for me and pushed me out of my comfort zone. Speaking on camera made me more aware of >how I present myself, including my confidence, tone, and clarity.  
+>
+>Preparing for the interview required me to reflect on my own abilities, strengths, and weaknesses, which helped develop my >self-identity as a future software developer. Using the STAR method gave structure to my answers and helped me communicate >more effectively.  
+>
+>This experience also showed me the importance of preparation and practice. It helped me take more responsibility for how I >present myself, which is an important step in developing personal agency.  
+>
+>Overall, I gained confidence and a better understanding of how to approach real interview situations.
 
 ---
 
