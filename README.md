@@ -47,7 +47,7 @@ National Senior Certificate
 - Assisted with customer queries and recommendations  
 - Delivered excellent customer service  
 
-### Front of House – Gold Restaurant  
+### _Front of House – Gold Restaurant_  
 📅 Jan 2016 – Nov 2023  
 - Managed bookings and customer flow  
 - Handled payments and transactions  
