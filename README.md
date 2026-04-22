@@ -41,7 +41,7 @@ National Senior Certificate
 
 ## 💼 Work Experience  
 
-### \Concierge – Propr  
+### _Concierge – Propr_ 
 📅 Nov 2023 – Present  
 - Welcomed guests and ensured professional check-ins  
 - Assisted with customer queries and recommendations  
