@@ -117,10 +117,10 @@ National Senior Certificate
 
 ### 📄 Reflection on the Use of Markdown (.md)
 
-> This project was my first time working with Markdown, and at the beginning, I found it quite challenging because I was more > familiar with HTML and CSS. I was used to having more control over design, so working with a simpler format felt limiting at > first.  
+> This project was my first time working with Markdown, and at first I found it quite challenging because I was more familiar > with HTML and CSS. I was used to having more control over design, so working with a simpler format felt limiting at first.  
 >
-> However, as I continued, I started to understand the theory behind Markdown, which focuses on simplicity, readability, and >
-> clear structure. This helped me shift my thinking from focusing on design to focusing on how information is organised and >
+> However, as I continued, I started to understand the theory behind Markdown, which focuses on simplicity, readability, and 
+> clear structure. This helped me shift my thinking from focusing on design to focusing on how information is organised and 
 > presented.  
 >
 > I also applied my previous experience with HTML by integrating it into Markdown to improve layout where needed. This showed > me how I can adapt my existing knowledge to new tools.  
