@@ -16,9 +16,7 @@ background:#f5f5f5; padding:20px; border-radius:15px;">
 
 </div>
 
-<hr>
 
-<hr>
 
 <hr>
 
