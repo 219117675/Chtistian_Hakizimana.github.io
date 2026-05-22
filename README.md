@@ -11,7 +11,6 @@ background:#f5f5f5; padding:20px; border-radius:15px;">
 
 </div>
 
-# Christian Hakizimana
 ### Software Developer | ICT Student @ CPUT
 
 📍 Cape Town, South Africa &nbsp;|&nbsp; 📧 219117675@mycput.ac.za &nbsp;|&nbsp; 🔗 [GitHub](https://github.com/219117675)
