@@ -88,15 +88,11 @@ background:#f5f5f5; padding:20px; border-radius:15px;">
   </video>
 </div>
 
-
-
-
-
 ---
 
 ## 🧠 Reflections
 
-### 📄 Reflection on Coding in Markdown *(STAR Method)*
+### 📄 Reflection on Coding in Markdown 
 
 **🔹 _Situation:_**
 As part of the PRP370S Project Presentation 3 module, I was required to build a digital portfolio using GitHub. Prior to this, I had no experience with Markdown and was only familiar with HTML and CSS for web-based formatting.
@@ -112,7 +108,7 @@ I successfully produced a fully Markdown-coded portfolio that renders cleanly on
 
 ---
 
-### 🎥 Reflection on Mock Interview Video *(STAR Method)*
+### 🎥 Reflection on Mock Interview Video 
 
 **🔹 _Situation:_**
 As part of the work readiness component of PRP370S, I was required to record a mock job interview. This was the first time I had recorded myself in a formal interview setting, and I found it both challenging and unfamiliar.
@@ -128,7 +124,7 @@ The final recording demonstrated a composed and structured interview performance
 
 ---
 
-### 🌐 Reflection on Publishing with GitHub Pages *(STAR Method)*
+### 🌐 Reflection on Publishing with GitHub Pages 
 
 **🔹 _Situation:_**
 After completing my portfolio content, I needed to make it publicly accessible online as a requirement of the PRP370S assessment. While I had used GitHub for version control and code storage, I had never deployed a live website using GitHub Pages before.
@@ -146,6 +142,6 @@ My portfolio was successfully deployed at [219117675.github.io/Christian_Hakizim
 
 
 <p align="center">
-  <em>© 2026 Christian Hakizimana · CPUT Diploma in ICT · PRP370S Portfolio</em>
+  <em>© 2026 Christian Hakizimana · CPUT Diploma in ICT · Github Portfolio</em>
 </p>
 
