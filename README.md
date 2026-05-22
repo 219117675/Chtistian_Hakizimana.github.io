@@ -1,7 +1,8 @@
-<img src="profile.png" width="120" 
-  style="border-radius:50%; border:3px solid #333;">
 
-<img src="profile.png" width="120" style="border-radius:50%;">   Christian Hakizimana 
+
+<img src="profile.png" width="120" style="border-radius:50%;">
+
+# **Christian Hakizimana**
 
 # Christian Hakizimana
 ### Software Developer | ICT Student @ CPUT
@@ -10,7 +11,7 @@
 
 > Motivated and detail-oriented 3rd-year ICT Diploma student at CPUT, specialising in Software Development. Passionate about building practical software solutions and continuously learning new technologies. Seeking a Work-Integrated Learning (WIL) placement to apply my technical skills and grow in a professional ICT environment.
 
-📄 **[Download My CV](Christian_Hakizimana_CV.pdf)**
+
 
 ---
 
@@ -68,13 +69,22 @@
 
 `Communication` `Teamwork` `Problem Solving` `Attention to Detail` `Customer Service` `Adaptability`
 
+
+📄 **[Download My CV](Christian_Hakizimana_CV.pdf)**
 ---
 
 ## 🎥 Mock Interview Video
+<div style="max-width:500px; margin:auto;">
+  <video controls style="width:100%; height:auto; border-radius:14px;">
+    <source src="interview.mp4" type="video/mp4">
+  </video>
+</div>
+
 
 ▶️ [Watch Mock Interview](interview.mp4)
 
 *Recorded as part of the PRP370S Work Readiness assessment, June 2026.*
+
 
 ---
 
