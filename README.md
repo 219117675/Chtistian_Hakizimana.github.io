@@ -6,12 +6,7 @@ background:#f5f5f5; padding:20px; border-radius:15px;">
 
   <div>
     <h1 style="margin:0;">Christian Hakizimana</h1>
-    <p style="margin:5px 0;"><strong>Software Developer | ICT Student</strong></p>
-    <p style="margin:5px 0;">📍 Cape Town, South Africa</p>
-    <p style="margin:5px 0;">📧 219117675@mycput.ac.za</p>
-    <p style="margin:5px 0;">
-      🔗 <a href="https://github.com/219117675">GitHub</a>
-    </p>
+    
   </div>
 
 </div>
